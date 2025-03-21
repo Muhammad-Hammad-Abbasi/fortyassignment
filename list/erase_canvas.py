@@ -1,8 +1,8 @@
 from graphics import Canvas
 import time
     
-CANVAS_WIDTH : int = 400
-CANVAS_HEIGHT : int = 400
+CANVAS_WIDTH : int = 800
+CANVAS_HEIGHT : int = 800
 
 CELL_SIZE : int = 40
 ERASER_SIZE : int = 20
